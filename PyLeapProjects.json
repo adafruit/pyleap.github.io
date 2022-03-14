@@ -1,0 +1,17 @@
+{
+  "format_version": 0,
+  "file_version": 0,
+  "projects": [
+    {
+      "project_name": "NeoPixel Rainbows",
+      "project_image": "neo_pixel_image.png",
+      "description": "Our first stop is using Glider (wireless file transfer) inside of PyLeap to work with BundleFly on the Adafruit Learning System to bundle up and send the files on over! The files include code.py and the libraries. For this proof-of-concept we're going to toss a rainbow on over to a Circuit Playground Bluefruit Express.",
+      "bundle_link": "https://learn.adafruit.com/pages/22555/elements/3105809/download?type=zip",
+      "learn_guide_link": "https://learn.adafruit.com/pyleap-device-enabled-in-rainbows",
+      "compatibility": [
+        "circuitplayground_bluefruit",
+        "clue_nrf52840_express"
+      ]
+    }
+  ]
+}
