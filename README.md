@@ -13,7 +13,7 @@ PyLeap is an app for iOS and iPadOS. It allows you to collect complete projects 
 Points to JSON file address.
 
 ```swift
-let baseURL = "https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json"
+let baseURL = "https://github.com/adafruit/pyleap.github.io/blob/gh-pages/pyleapProjects.json"
 ```
 | Field | Type | Notes |
 | --- | --- | --- |
