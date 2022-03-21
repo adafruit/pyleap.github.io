@@ -17,22 +17,14 @@ let baseURL = "https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json"
 ```
 | Field | Type | Notes |
 | --- | --- | --- |
-| project_name |String| Sets the title of the demo project |
-| project_image |String| URL to the primary image of a demo project in PNG format
-| description |String| A brief description of the demo 
-| bundle_link |String| URL to demo project bundle 
-| learn_guide_link |String| URL to learn guide in on the Adafruit Learn System 
-| compatibility |[String]| An array containing devices bluetooth devices using nRF52840 using FileTransfer
+| project_name |String| Sets the title of the demo project.
+| project_image |String| URL to the primary image of a demo project in PNG format.
+| description |String| A brief description of the demo.
+| bundle_link |String| URL to demo project bundle.
+| learn_guide_link |String| URL to learn guide in on the Adafruit Learn System.
+| compatibility |[String]| An array containing devices bluetooth devices using nRF52840 using FileTransfer.
 
-# Hardware
-Currently testing with:
-
-• [Adafruit Circuit Playground Bluefruit with nRF52840](https://www.adafruit.com/product/4333) 
-
-• [Adafruit CLUE nRF52840 Express with nRF52840](https://www.adafruit.com/product/4500)
-
-
-# Installation and usage:
+## Installation
  
  • Prepare your boards. If you have not setup either of the boards mentioned above, be sure to follow these guides.
  
@@ -43,3 +35,10 @@ Currently testing with:
  • Launch Xcode and run build the project on your target iOS Device.
  
  (Note: Bluetooth Low Engery is not available in the iOS simulator, so the iOS device is a requirement to test the application)
+
+
+## Hardware
+
+• [Adafruit Circuit Playground Bluefruit with nRF52840](https://www.adafruit.com/product/4333) 
+
+• [Adafruit CLUE nRF52840 Express with nRF52840](https://www.adafruit.com/product/4500)
