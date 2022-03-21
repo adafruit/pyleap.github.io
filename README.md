@@ -3,7 +3,9 @@
 </p>
 
 # PyLeap Project Collection
-A collection of demo projects for Pyleap. 
+A collection of demo projects for the Pyleap. 
+
+PyLeap is an app for iOS and iPadOS. It allows you to collect complete projects from the Adafruit Learn System, and transfer them directly to your Circuit Playground Bluefruit without opening a code editor or connecting to a computer.
 
 [Read more about PyLeap here.](https://learn.adafruit.com/pyleap-app)
 
@@ -13,7 +15,6 @@ Points to JSON file address.
 ```swift
 let baseURL = "https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json"
 ```
-
 | Field | Type | Notes |
 | --- | --- | --- |
 | project_name |String| Sets the title of the demo project |
@@ -22,5 +23,3 @@ let baseURL = "https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json"
 | bundle_link |String| URL to demo project bundle 
 | learn_guide_link |String| URL to learn guide in on the Adafruit Learn System 
 | compatibility |[String]| An array containing devices bluetooth devices using nRF52840 using FileTransfer
-
-
