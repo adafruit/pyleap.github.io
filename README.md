@@ -17,11 +17,11 @@ let baseURL = "https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json"
 ```
 | Field | Type | Notes |
 | --- | --- | --- |
-| project_name |String| Sets the title of the demo project.
-| project_image |String| URL to the primary image of a demo project in PNG format.
+| projectName |String| Sets the title of the demo project.
+| projectImage |String| URL to the primary image of a demo project in PNG format.
 | description |String| A brief description of the demo.
-| bundle_link |String| URL to demo project bundle.
-| learn_guide_link |String| URL to learn guide in on the Adafruit Learn System.
+| bundleLink |String| URL to demo project bundle.
+| learnGuideLink |String| URL to learn guide in on the Adafruit Learn System.
 | compatibility |[String]| An array containing devices bluetooth devices using nRF52840 using FileTransfer.
 
 ## Installation
