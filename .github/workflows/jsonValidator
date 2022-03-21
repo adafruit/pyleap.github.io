@@ -10,5 +10,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json
+          INPUT_SCHEMA: https://github.com/adafruit/pyleap.github.io/blob/gh-pages/schema.json
           INPUT_JSONS: https://adafruit.github.io/pyleap.github.io/PyLeapProjects.json
