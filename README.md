@@ -5,7 +5,7 @@
 # PyLeap Project Collection
 A collection of demo projects for the Pyleap. 
 
-PyLeap is an app for iOS and iPadOS. It allows you to collect complete projects from the Adafruit Learn System, and transfer them directly to your Circuit Playground Bluefruit without opening a code editor or connecting to a computer.
+PyLeap is an app for iOS and iPadOS. It allows you to collect complete projects from the Adafruit Learn System repo, and transfer them via Bluetooth to your nRF52840 Bluetooth Low Engery device without opening a code editor or connecting to a computer.
 
 [Read more about PyLeap here.](https://learn.adafruit.com/pyleap-app)
 
