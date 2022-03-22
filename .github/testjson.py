@@ -26,14 +26,15 @@ if not filename.endswith(".json"):
 try:
     with open(filename) as json_file:
         data = json.load(json_file)
+        #print(data)
         for k in topkeys:
-            if not data.get(k):
+            if data.get(k) is None:
                 print("No '"+k+"' key")
                 exitval = -1
         projects = data['projects']
         for project in projects:
             for k in projkeys:
-                if not project.get(k):
+                if project.get(k) is None:
                     print("No '"+k+"' project key")
                     exitval = -1 
 except json.decoder.JSONDecodeError as e:
