@@ -31,10 +31,11 @@ try:
                 print("No '"+k+"' key")
                 exitval = -1
         projects = data['projects']
-        for k in projkeys:
-            if not projects.get(k):
-                print("No '"+k+"' project key")
-                exitval = -1 
+        for project in projects:
+            for k in projkeys:
+                if not project.get(k):
+                    print("No '"+k+"' project key")
+                    exitval = -1 
 except json.decoder.JSONDecodeError as e:
     print("Could not decode valid JSON", e)
     exitval = -1
