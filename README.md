@@ -23,22 +23,3 @@ let baseURL = "https://github.com/adafruit/pyleap.github.io/blob/gh-pages/pyleap
 | bundleLink |String| URL to demo project bundle.
 | learnGuideLink |String| URL to learn guide in on the Adafruit Learn System.
 | compatibility |[String]| An array containing devices bluetooth devices using nRF52840 using FileTransfer.
-
-## Installation
- 
- • Prepare your boards. If you have not setup either of the boards mentioned above, be sure to follow these guides.
- 
- [Introducing Adafruit CLUE](https://learn.adafruit.com/adafruit-clue)
- 
- [Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit)
- 
- • Launch Xcode and run build the project on your target iOS Device.
- 
- (Note: Bluetooth Low Engery is not available in the iOS simulator, so the iOS device is a requirement to test the application)
-
-
-## Hardware
-
-• [Adafruit Circuit Playground Bluefruit with nRF52840](https://www.adafruit.com/product/4333) 
-
-• [Adafruit CLUE nRF52840 Express with nRF52840](https://www.adafruit.com/product/4500)
