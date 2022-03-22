@@ -11,5 +11,5 @@ jobs:
         uses: OrRosenblatt/validate-json-action@0.1.0
   
         env:
-          INPUT_SCHEMA: https://adafruit.github.io/pyleap.github.io/schema.json
-          INPUT_JSONS: https://adafruit.github.io/pyleap.github.io/pyleapProjects.json
+          INPUT_SCHEMA: https://github.com/adafruit/pyleap.github.io/blob/gh-pages/schema.json
+          INPUT_JSONS: https://github.com/adafruit/pyleap.github.io/blob/gh-pages/pyleapProjects.json
