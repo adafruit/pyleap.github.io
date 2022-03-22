@@ -24,7 +24,7 @@ if not filename.endswith(".json"):
     exit(-1)
     
 try:
-    with open(pathname) as json_file:
+    with open(filename) as json_file:
         data = json.load(json_file)
         for k in topkeys:
             if not data.get(k):
