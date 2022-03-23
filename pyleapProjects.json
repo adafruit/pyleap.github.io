@@ -4,7 +4,7 @@
   "projects": [
     {
       "projectName": "NeoPixel Rainbows",
-      "projectImage": "bluefruit_PyLeap_rainbow.png",
+      "projectImage": "bluefruit_PyLeap_rainbow",
       "description": "For this project we're going to toss a rainbow animation to our device.",
       "bundleLink": "https://learn.adafruit.com/pages/22555/elements/3105809/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-in-rainbows",
@@ -15,7 +15,7 @@
     },
     {
       "projectName": "Blink",
-      "projectImage": "bluefruit_PyLeap_blink.png",
+      "projectImage": "bluefruit_PyLeap_blink",
       "description": "A simple project code that creates a blinking animation of purple and pink.",
       "bundleLink": "https://learn.adafruit.com/pages/22920/elements/3105810/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
@@ -26,7 +26,7 @@
     },
     {
       "projectName": "Eyelights LED Glasses",
-      "projectImage": "bluefruit_PyLeap_eyeGlasses.png",
+      "projectImage": "bluefruit_PyLeap_eyeGlasses",
       "description": "There's also six mounting holes for attaching to a glasses frame of your choosing - we recommend getting some 'fashion frames' from the mall or a street vendor, they're all the style and will provide a great mechanical support.",
       "bundleLink": "https://learn.adafruit.com/pages/22957/elements/3105811/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
