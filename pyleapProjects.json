@@ -29,7 +29,7 @@
       "projectImage": "bluefruit_PyLeap_eyeGlasses",
       "description": "There's also six mounting holes for attaching to a glasses frame of your choosing - we recommend getting some 'fashion frames' from the mall or a street vendor, they're all the style and will provide a great mechanical support.",
       "bundleLink": "https://learn.adafruit.com/pages/22957/elements/3105811/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-eyelights-led-glasses-for-circuit-playground-bluefruit",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -40,7 +40,7 @@
       "projectImage": "bluefruit_PyLeap_play_audio",
       "description": "This project plays a different WAV for each button pressed. Be aware, the speaker is small, so you will not get high quality WAV playback using the built-in speaker.",
       "bundleLink": "https://learn.adafruit.com/pages/23250/elements/3106074/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-wav-playback-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -52,7 +52,7 @@
       "projectImage": "bluefruit_PyLeap_light_meter_image",
       "description": "This project uses the ten LEDs to indicate light level from the light sensor",
       "bundleLink": "https://learn.adafruit.com/pages/23270/elements/3106247/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-neopixel-light-meter",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -63,7 +63,7 @@
       "projectImage": "bluefruit_PyLeap_Tone_Piano_image",
       "description": "This project uses the touch pads to light up the LEDs in rainbow colors.",
       "bundleLink": "https://learn.adafruit.com/pages/23272/elements/3106255/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-touch-neopixel-rainbow",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -74,7 +74,7 @@
       "projectImage": "bluefruit_PyLeap_NeoPixel_Buttons_image",
       "description": "This project lights up half of the NeoPixel LEDs for each button when pressed.",
       "bundleLink": "https://learn.adafruit.com/pages/23269/elements/3106245/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-buttons-neopixels",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -85,7 +85,7 @@
       "projectImage": "bluefruit_PyLeap_touch_rainbow_image",
       "description": "This project plays a different tone and lights up the NeoPixels a different color for each touch pad touched.",
       "bundleLink": "https://learn.adafruit.com/pages/23248/elements/3106070/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-tone-piano-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -95,7 +95,7 @@
       "projectImage": "bluefruit_PyLeap_play_audio",
       "description": "This project plays a different MP3 for each button pressed.",
       "bundleLink": "https://learn.adafruit.com/pages/23249/elements/3106072/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-mp3-playback-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
       ]
@@ -106,7 +106,7 @@
       "projectImage": "bluefruit_PyLeap_altimeter",
       "description": "This project plays a different MP3 for each button pressed.",
       "bundleLink": "https://learn.adafruit.com/pages/19812/elements/3068825/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
+      "learnGuideLink": "https://learn.adafruit.com/clue-altimeter",
       "compatibility": [
           "clue_nrf52840_express"
       ]
