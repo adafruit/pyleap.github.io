@@ -104,7 +104,7 @@
     {
       "projectName": "Altimeter",
       "projectImage": "bluefruit_PyLeap_altimeter",
-      "description": "This project plays a different MP3 for each button pressed.",
+      "description": "Here we will use an Adafruit CLUE board to create a simple little altimeter and take it into the mountains.",
       "bundleLink": "https://learn.adafruit.com/pages/19812/elements/3068825/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/clue-altimeter",
       "compatibility": [
