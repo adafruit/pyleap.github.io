@@ -4,7 +4,7 @@
   "projects": [
     {
       "projectName": "NeoPixel Rainbows",
-      "projectImage": "bluefruit_PyLeap_rainbow",
+      "projectImage": "https://cdn-shop.adafruit.com/970x728/4333-11.jpg",
       "description": "For this project we're going to toss a rainbow animation to our device.",
       "bundleLink": "https://learn.adafruit.com/pages/22555/elements/3105809/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-in-rainbows",
@@ -15,7 +15,7 @@
     },
     {
       "projectName": "Blink",
-      "projectImage": "bluefruit_PyLeap_blink",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/107/301/medium800/bluefruit_IMG_8421.png?1639425455",
       "description": "A simple project code that creates a blinking animation of purple and pink.",
       "bundleLink": "https://learn.adafruit.com/pages/22920/elements/3105810/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-blinky",
