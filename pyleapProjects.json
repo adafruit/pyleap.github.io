@@ -143,6 +143,17 @@
       "compatibility": [
           "clue_nrf52840_express"
       ]
+    },
+
+    {
+      "projectName": "Hand Wash Timer",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/110/954/original/CLUE_Handwash_Timer.jpg",
+      "description": "This project provides a no-touch hand wash timer to ensure you wash for 20 seconds.",
+      "bundleLink": "https://learn.adafruit.com/pages/19130/elements/3060516/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/no-touch-hand-wash-timer-for-cpx-and-clue",
+      "compatibility": [
+        "clue_nrf52840_express"
+      ]
     }
   ]
 }
