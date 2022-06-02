@@ -132,6 +132,28 @@
       "compatibility": [
           "clue_nrf52840_express"
       ]
+    },
+    
+    {
+      "projectName": "Step Counter",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/975/medium640/wearables_P1220567_edited.jpg?1586906926",
+      "description": "With this project you can see your daily steps without any fears about your data security.",
+      "bundleLink": "https://learn.adafruit.com/pages/19210/elements/3061274/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/clue-step-counter-st-lsm6ds33",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
+
+    {
+      "projectName": "Hand Wash Timer",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/110/954/original/CLUE_Handwash_Timer.jpg",
+      "description": "This project provides a no-touch hand wash timer to ensure you wash for 20 seconds.",
+      "bundleLink": "https://learn.adafruit.com/pages/19130/elements/3060516/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/no-touch-hand-wash-timer-for-cpx-and-clue",
+      "compatibility": [
+        "clue_nrf52840_express"
+      ]
     }
   ]
 }
