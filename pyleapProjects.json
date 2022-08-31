@@ -132,6 +132,19 @@
       "compatibility": [
           "clue_nrf52840_express"
       ]
+    },
+    
+    {
+      "projectName": "ESP32-S2 NeoPixel LED",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
+      "description": "Use CircuitPython code to control the color and brightness of this LED.",
+      "bundleLink": "https://learn.adafruit.com/pages/23628/elements/3092353/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/neopixel-led",
+      "compatibility": [
+          "esp32-s2"
+      ]
     }
+    
+    
   ]
 }
