@@ -141,7 +141,7 @@
       "bundleLink": "https://learn.adafruit.com/pages/23628/elements/3092353/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/neopixel-led",
       "compatibility": [
-          "circuitplayground_bluefruit","esp32-s2"
+          "esp32-s2"
       ]
     },
     
@@ -152,7 +152,7 @@
       "bundleLink": "https://learn.adafruit.com/pages/23823/elements/3111786/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/i2c-on-board-sensor",
       "compatibility": [
-          "circuitplayground_bluefruit","esp32-s2"
+          "esp32-s2"
       ]
     },
     
@@ -163,7 +163,7 @@
       "bundleLink": "https://learn.adafruit.com/pages/23785/elements/3111121/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
-          "circuitplayground_bluefruit","esp32-s2"
+          "esp32-s2"
       ]
     },
     
@@ -174,7 +174,7 @@
       "bundleLink": "https://learn.adafruit.com/pages/23785/elements/3111122/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
-          "circuitplayground_bluefruit","esp32-s2"
+          "esp32-s2"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "bundleLink": "https://learn.adafruit.com/pages/23785/elements/3111210/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
-          "circuitplayground_bluefruit","esp32-s2"
+          "esp32-s2"
       ]
     }
     
