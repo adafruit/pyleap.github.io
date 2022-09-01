@@ -143,7 +143,30 @@
       "compatibility": [
           "circuitplayground_bluefruit","esp32-s2"
       ]
+    },
+    
+    {
+      "projectName": "I2C: On-Board Battery Monitor",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
+      "description": "The example simply reads data from the battery monitor and prints it to the serial console. It is designed to show you how to get data from the battery monitor.",
+      "bundleLink": "https://learn.adafruit.com/pages/23823/elements/3111786/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/i2c-on-board-sensor",
+      "compatibility": [
+          "circuitplayground_bluefruit","esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "Simply: Hello, World!",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
+      "description": "The Adafruit CircuitPython Display Text library allows you to display text on the TFT display.",
+      "bundleLink": "https://learn.adafruit.com/pages/23785/elements/3111121/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
+      "compatibility": [
+          "circuitplayground_bluefruit","esp32-s2"
+      ]
     }
+
     
     
   ]
