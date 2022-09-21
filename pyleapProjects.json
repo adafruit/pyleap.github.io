@@ -133,6 +133,17 @@
           "clue_nrf52840_express"
       ]
     },
+	
+	{
+      "projectName": "PyLeap CLUE Sensor Plotter",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/284/medium640/sensors_edited_P1380842.png?1663786248",
+      "description": "The CLUE has tons of onboard sensors that can sense movement, light, sound and environmental measures like temperature and humidity. This project uses the CLUE's onboard display to plot all of the sensors' data.",
+      "bundleLink": "https://learn.adafruit.com/pages/24958/elements/3127487/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-sensor-plotter",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
     
     {
       "projectName": "ESP32-S2 NeoPixel LED",
