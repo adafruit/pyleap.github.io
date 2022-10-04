@@ -144,6 +144,17 @@
           "clue_nrf52840_express"
       ]
     },
+	
+	{
+      "projectName": "PyLeap BLE Controlled NeoPixels with CLUE",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/664/medium640/projects_edited_P1380940.jpg?1664904980",
+      "description": "In this project, you'll connect to the CLUE with the Adafruit Bluefruit Connect app to change the colors and animations of a strip of NeoPixels over BLE.",
+      "bundleLink": "https://learn.adafruit.com/pages/25026/elements/3128279/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-ble-controlled-neopixels-with-clue",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
     
     {
       "projectName": "ESP32-S2 NeoPixel LED",
