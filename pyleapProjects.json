@@ -155,6 +155,17 @@
           "clue_nrf52840_express"
       ]
     },
+	
+	{
+      "projectName": "PyLeap CLUE Custom Conference Badge",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/725/medium640/projects_edited_P1380953.jpg?1665000933",
+      "description": "In this project, you'll turn your CLUE into a custom conference badge to display your online handle, name, job title and pronouns.",
+      "bundleLink": "https://learn.adafruit.com/pages/25057/elements/3128498/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-custom-conference-badge",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
     
     {
       "projectName": "ESP32-S2 NeoPixel LED",
