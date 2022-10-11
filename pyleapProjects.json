@@ -166,6 +166,17 @@
           "clue_nrf52840_express"
       ]
     },
+	
+	{
+      "projectName": "PyLeap CLUE Barometer",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/820/medium640/projects_edited_P1380999.jpg?1665511166",
+      "description": "In this project, you'll turn your CLUE a barometric pressure and temperature monitor. A servo will display the pressure readings.",
+      "bundleLink": "https://learn.adafruit.com/pages/25086/elements/3128635/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-barometer",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
     
     {
       "projectName": "ESP32-S2 NeoPixel LED",
