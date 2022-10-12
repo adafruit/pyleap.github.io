@@ -135,7 +135,7 @@
     },
 	
 	{
-      "projectName": "PyLeap CLUE Sensor Plotter",
+      "projectName": "CLUE Sensor Plotter",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/284/medium640/sensors_edited_P1380842.png?1663786248",
       "description": "The CLUE has tons of onboard sensors that can sense movement, light, sound and environmental measures like temperature and humidity. This project uses the CLUE's onboard display to plot all of the sensors' data.",
       "bundleLink": "https://learn.adafruit.com/pages/24958/elements/3127487/download?type=zip",
@@ -146,7 +146,7 @@
     },
 	
 	{
-      "projectName": "PyLeap BLE Controlled NeoPixels with CLUE",
+      "projectName": "BLE Controlled NeoPixels with CLUE",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/664/medium640/projects_edited_P1380940.jpg?1664904980",
       "description": "In this project, you'll connect to the CLUE with the Adafruit Bluefruit Connect app to change the colors and animations of a strip of NeoPixels over BLE.",
       "bundleLink": "https://learn.adafruit.com/pages/25026/elements/3128279/download?type=zip",
@@ -157,7 +157,7 @@
     },
 	
 	{
-      "projectName": "PyLeap CLUE Custom Conference Badge",
+      "projectName": "CLUE Custom Conference Badge",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/725/medium640/projects_edited_P1380953.jpg?1665000933",
       "description": "In this project, you'll turn your CLUE into a custom conference badge to display your online handle, name, job title and pronouns.",
       "bundleLink": "https://learn.adafruit.com/pages/25057/elements/3128498/download?type=zip",
@@ -168,9 +168,9 @@
     },
 	
 	{
-      "projectName": "PyLeap CLUE Barometer",
+      "projectName": "CLUE Barometer",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/821/medium640/projects_edited_P1390003.jpg?1665513267",
-      "description": "In this project, you'll turn your CLUE a barometric pressure and temperature monitor. A servo will display the pressure readings.",
+      "description": "In this project, you'll turn your CLUE into a barometric pressure and temperature monitor. A servo will display the pressure readings.",
       "bundleLink": "https://learn.adafruit.com/pages/25086/elements/3128635/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-barometer",
       "compatibility": [
