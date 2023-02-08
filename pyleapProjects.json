@@ -177,6 +177,16 @@
           "clue_nrf52840_express"
       ]
     },
+    {
+      "projectName": "Boxing Glove Tracker",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/images/000/003/743/original/ezgif.com-video-to-gif.gif?1675787414",
+      "description": "Unleashing the Power of Your Punch! Build your own Boxing Glove Tracker",
+      "bundleLink": "https://learn.adafruit.com/pages/25652/elements/3137194/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-boxing-glove-tracker-w-adafruit-io/code-the-boxing-glove-tracker?preview_token=FcD5M7Mdpe4IlUwpX-5mEw",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
     
     {
       "projectName": "ESP32-S2 NeoPixel LED",
@@ -265,6 +275,5 @@
           "esp32-s2"
       ]
     }
-    
   ]
 }
