@@ -34,7 +34,7 @@
         "circuitplayground_bluefruit"
       ]
     },
-    
+
     {
       "projectName": "WAV Playback",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/568/medium800/bluefruit_PyLeap_play_audio.jpg?1637100396",
@@ -46,7 +46,7 @@
       ]
     },
 
-    
+
     {
       "projectName": "Light Meter",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/566/medium800/bluefruit_PyLeap_light_meter_image.jpg?1637100369",
@@ -57,7 +57,7 @@
         "circuitplayground_bluefruit"
       ]
     },
-    
+
     {
       "projectName": "Touch NeoPixel Rainbow",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/564/medium800/bluefruit_PyLeap_touch_rainbow_image.jpg?1637100326",
@@ -68,7 +68,7 @@
         "circuitplayground_bluefruit"
       ]
     },
-    
+
     {
       "projectName": "Button Controlled NeoPixels",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/567/medium800/bluefruit_PyLeap_NeoPixel_Buttons_image.jpg?1637100385",
@@ -79,7 +79,7 @@
         "circuitplayground_bluefruit"
       ]
     },
-    
+
     {
       "projectName": "Touch Tone Piano",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/570/medium800/bluefruit_PyLeap_Tone_Piano_image.jpg?1637100800",
@@ -100,7 +100,7 @@
         "circuitplayground_bluefruit"
       ]
     },
-    
+
     {
       "projectName": "Altimeter",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/050/medium640/wright_summit_crop.jpg?1595783355",
@@ -111,7 +111,7 @@
           "clue_nrf52840_express"
       ]
     },
-    
+
     {
       "projectName": "Metronome",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/994/medium640/metronome-2126b.jpg?1588972332",
@@ -122,7 +122,7 @@
           "clue_nrf52840_express"
       ]
     },
-    
+
     {
       "projectName": "Digital Egg Drop Experiment",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/002/942/medium640/IMG_1162.JPG?1583858232",
@@ -133,7 +133,7 @@
           "clue_nrf52840_express"
       ]
     },
-	
+
 	{
       "projectName": "CLUE Sensor Plotter",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/284/medium640/sensors_edited_P1380842.png?1663786248",
@@ -144,7 +144,7 @@
           "clue_nrf52840_express"
       ]
     },
-	
+
 	{
       "projectName": "BLE Controlled NeoPixels with CLUE",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/664/medium640/projects_edited_P1380940.jpg?1664904980",
@@ -155,7 +155,7 @@
           "clue_nrf52840_express"
       ]
     },
-	
+
 	{
       "projectName": "CLUE Custom Conference Badge",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/725/medium640/projects_edited_P1380953.jpg?1665000933",
@@ -166,7 +166,7 @@
           "clue_nrf52840_express"
       ]
     },
-	
+
 	{
       "projectName": "CLUE Barometer",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/115/821/medium640/projects_edited_P1390003.jpg?1665513267",
@@ -187,7 +187,7 @@
           "esp32-s2"
       ]
     },
-    
+
     {
       "projectName": "ESP32-S2 NeoPixel LED",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -198,7 +198,7 @@
           "esp32-s2"
       ]
     },
-    
+
     {
       "projectName": "I2C: On-Board Battery Monitor",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -209,7 +209,7 @@
           "esp32-s2"
       ]
     },
-    
+
     {
       "projectName": "Simply: Hello, World!",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -220,7 +220,7 @@
           "esp32-s2"
       ]
     },
-    
+
     {
       "projectName": "Bitmap Display",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -252,7 +252,7 @@
           "esp32-s2"
       ]
     }
-    
+
     ,
     {
       "projectName": "I2C: External Sensor",
@@ -264,13 +264,23 @@
           "esp32-s2"
       ]
     },
-    
+
     {
       "projectName": "CPU Temperature",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
       "description": "There is a temperature sensor built into the CPU on your microcontroller board. It reads the internal CPU temperature, which varies depending on how long the board has been running or how intense your code is.",
       "bundleLink": "https://learn.adafruit.com/pages/23306/elements/3092144/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-feather/cpu-temperature",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    {
+      "projectName": "Mini Weather Station",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/767/medium640/ministation.jpg?1678377806",
+      "description": "Stay one step ahead of the weather with a Mini Weather Station using the Adafruit ESP32-S2 TFT",
+      "bundleLink": "https://learn.adafruit.com/pages/26035/elements/3140027/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-in-rainbows",
       "compatibility": [
           "esp32-s2"
       ]
