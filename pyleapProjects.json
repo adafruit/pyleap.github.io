@@ -284,6 +284,16 @@
       "compatibility": [
           "esp32-s2"
       ]
+    },
+    {
+      "projectName": "MagTag Kitchen Timer",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/218/medium640/IMG_4416.jpg?1608319486",
+      "description": "Build a handy kitchen timer with the Adafruit MagTag",
+      "bundleLink": "https://learn.adafruit.com/pages/21242/elements/3080088/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/adafruit-magtag-kitchen-timer/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
     }
   ]
 }
