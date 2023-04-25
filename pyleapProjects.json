@@ -179,6 +179,7 @@
           "clue_nrf52840_express"
       ]
     },
+    
     {
       "projectName": "CLUE Metal Detector in CircuitPython",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/090/814/small360/sensors_clue-metal-detector-unstacked-1-2000x1500.jpg?1588515880",
