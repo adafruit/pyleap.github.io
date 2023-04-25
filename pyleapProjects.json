@@ -13,6 +13,7 @@
         "clue_nrf52840_express"
       ]
     },
+    
     {
       "projectName": "Blink",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/107/301/medium800/bluefruit_IMG_8421.png?1639425455",
@@ -24,6 +25,7 @@
         "clue_nrf52840_express"
       ]
     },
+    
     {
       "projectName": "Eyelights LED Glasses",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/107/299/medium800/bluefruit_IMG_8416.png?1639424703",
@@ -45,7 +47,6 @@
         "circuitplayground_bluefruit"
       ]
     },
-
 
     {
       "projectName": "Light Meter",
@@ -90,6 +91,7 @@
         "circuitplayground_bluefruit"
       ]
     },
+    
     {
       "projectName": "MP3 Playback",
       "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/106/569/medium800/bluefruit_PyLeap_play_audio.jpg?1637100405",
@@ -177,6 +179,29 @@
           "clue_nrf52840_express"
       ]
     },
+    
+    {
+      "projectName": "CLUE Metal Detector in CircuitPython",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/090/814/small360/sensors_clue-metal-detector-unstacked-1-2000x1500.jpg?1588515880",
+      "description": "Metal detecting with a CLUE or Circuit Playground Bluefruit in CircuitPython",
+      "bundleLink": "https://learn.adafruit.com/pages/19300/elements/3124282/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/clue-metal-detector-circuitpython/overview",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
+    
+    {
+      "projectName": "CLUE Dice Roller",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/088/905/thumb160thumb/gaming_ezgif.com-optimize%282%29.jpg?1583340253",
+      "description": "Pick how many of what dice, then shake, rattle, and roll. OK, it's more of a beep...beep...beep than rattle",
+      "bundleLink": "https://learn.adafruit.com/pages/18821/elements/3057272/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/clue-dice-roller/overview",
+      "compatibility": [
+          "clue_nrf52840_express"
+      ]
+    },
+    
     {
       "projectName": "Boxing Glove Tracker",
       "projectImage": "https://cdn-learn.adafruit.com/guides/images/000/003/743/original/ezgif.com-video-to-gif.gif?1675787414",
@@ -231,6 +256,7 @@
           "esp32-s2"
       ]
     },
+    
     {
       "projectName": "Sensor Data Display",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -240,8 +266,8 @@
       "compatibility": [
           "esp32-s2"
       ]
-    }
-    ,
+    },
+    
     {
       "projectName": "Blink",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -251,9 +277,8 @@
       "compatibility": [
           "esp32-s2"
       ]
-    }
-
-    ,
+    },
+    
     {
       "projectName": "I2C: External Sensor",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/501/medium640/FTFT_display_on.jpg?1641832392",
@@ -275,6 +300,7 @@
           "esp32-s2"
       ]
     },
+    
     {
       "projectName": "Mini Weather Station",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/767/medium640/ministation.jpg?1678377806",
@@ -285,12 +311,68 @@
           "esp32-s2"
       ]
     },
+    
     {
       "projectName": "MagTag Kitchen Timer",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/218/medium640/IMG_4416.jpg?1608319486",
       "description": "Build a handy kitchen timer with the Adafruit MagTag",
       "bundleLink": "https://learn.adafruit.com/pages/21242/elements/3080088/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-magtag-kitchen-timer/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "MagTag Dishwasher Status",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/098/578/small360/circuitpython_banner.jpg?1610481554",
+      "description": "Are they dirty? Or are they clean? Let MagTag help remind you",
+      "bundleLink": "https://learn.adafruit.com/pages/21388/elements/3081386/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-dishwasher-status",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "MagTag Cat Fed Clock",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/215/medium640/cat_fed_clock1-resize.jpg?1608022004",
+      "description": "Never let your cat fool you into an extra meal again",
+      "bundleLink": "https://learn.adafruit.com/pages/21203/elements/3079772/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-cat-feeder-clock/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "MagTag Progress Displays",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/097/352/small360/circuitpython_year_progress_new_cropped.jpg?1606865345",
+      "description": "Show progress with MagTag and CircuitPython",
+      "bundleLink": "https://learn.adafruit.com/pages/20959/elements/3078319/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-progress-displays/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "MagTag Slideshow",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/096/955/small360/adafruit_products_MagTag_top.jpg?1605035864",
+      "description": "Create an e-ink slideshow in glorious four-color grayscale on the MagTag",
+      "bundleLink": "https://learn.adafruit.com/pages/20915/elements/3077831/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-slideshow/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    
+    {
+      "projectName": "MagTag Sports Schedule Viewer",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/099/735/small360/internet_of_things___iot_magsports-0182.jpg?1614186065",
+      "description": "Display the game times and final scores of your favorite sport!",
+      "bundleLink": "https://learn.adafruit.com/pages/21673/elements/3084110/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-sports-schedule-viewer/overview",
       "compatibility": [
           "esp32-s2"
       ]
