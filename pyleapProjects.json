@@ -203,6 +203,18 @@
     },
     
     {
+      "projectName": "ESP32-S2 Rev TFT Digital Clock Display featuring Blanka-chan!",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/828/medium640/blanka-chan_ESP32S2_thumbnail2.png?1686169805",
+      "description": "Display the current time using the ESP32-S2 Reverse TFT",
+      "bundleLink": "https://learn.adafruit.com/pages/26732/elements/3146836/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-digital-clock-display-featuring-blanka-chan/overview",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+
+    
+    {
       "projectName": "Boxing Glove Tracker",
       "projectImage": "https://cdn-learn.adafruit.com/guides/images/000/003/743/original/ezgif.com-video-to-gif.gif?1675787414",
       "description": "Unleashing the Power of Your Punch! Build your own Boxing Glove Tracker",
