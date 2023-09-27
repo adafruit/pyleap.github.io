@@ -388,6 +388,17 @@
       "compatibility": [
           "esp32-s2"
       ]
+    },
+	
+	{
+      "projectName": "LED Matrix Sports Scoreboard",
+      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/124/458/small360/led_matrices_edited_P1410476.jpg?1695045733",
+      "description": "Display the game times and final scores of your favorite sports and teams!",
+      "bundleLink": "https://learn.adafruit.com/elements/3154673/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/led-matrix-sports-scoreboard/overview",
+      "compatibility": [
+          "matrix_portal_s3"
+      ]
     }
   ]
 }
