@@ -22,7 +22,8 @@ let baseURL = "https://adafruit.github.io/pyleap.github.io/pyleapProjects.json"
 | bundleLink |URL| URL to the project .zip file
 | learnGuideLink |URL| URL to learn guide or addtional project information.
 | compatibility |[String]| A list of devices compatible to the the project using board IDs: "circuitplayground_bluefruit" or "clue_nrf52840_express"
-
+| bluetoothCompatible | Bool |
+| wifiCompatible | Bool |
 ## Supported Image Formats
 This lists image formats supported directly by iOS. Of these formats, the PNG format is the one most recommended for use in PyLeap. Generally, the image formats that UIKit supports are the same formats supported by the Image I/O framework.
 
