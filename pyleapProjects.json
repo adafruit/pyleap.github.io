@@ -11,7 +11,9 @@
       "compatibility": [
         "circuitplayground_bluefruit",
         "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": true
     },
     
     {
@@ -23,7 +25,9 @@
       "compatibility": [
         "circuitplayground_bluefruit",
         "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": true
     },
     
     {
@@ -34,7 +38,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-eyelights-led-glasses-for-circuit-playground-bluefruit",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -45,7 +51,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-wav-playback-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -56,7 +64,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-neopixel-light-meter",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -67,7 +77,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-touch-neopixel-rainbow",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -78,7 +90,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-buttons-neopixels",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -89,7 +103,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-tone-piano-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
     
     {
@@ -100,7 +116,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-mp3-playback-for-cpb",
       "compatibility": [
         "circuitplayground_bluefruit"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -111,7 +129,9 @@
       "learnGuideLink": "https://learn.adafruit.com/clue-altimeter",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -122,7 +142,9 @@
       "learnGuideLink": "https://learn.adafruit.com/metronome-clue",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
     {
@@ -133,7 +155,9 @@
       "learnGuideLink": "https://learn.adafruit.com/egg-drop-clue",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
 	{
@@ -144,7 +168,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-sensor-plotter",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
 	{
@@ -155,7 +181,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-ble-controlled-neopixels-with-clue",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
 	{
@@ -166,7 +194,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-custom-conference-badge",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
 
 	{
@@ -177,7 +207,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-clue-barometer",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
     
     {
@@ -188,7 +220,9 @@
       "learnGuideLink": "https://learn.adafruit.com/clue-metal-detector-circuitpython/overview",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
     
     {
@@ -199,7 +233,9 @@
       "learnGuideLink": "https://learn.adafruit.com/clue-dice-roller/overview",
       "compatibility": [
           "clue_nrf52840_express"
-      ]
+      ],
+      "bluetoothCompatible": true,
+      "wifiCompatible": false
     },
     
     {
@@ -210,7 +246,9 @@
       "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-digital-clock-display-featuring-blanka-chan/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     
@@ -222,7 +260,9 @@
       "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-boxing-glove-tracker-w-adafruit-io/code-the-boxing-glove-tracker?preview_token=FcD5M7Mdpe4IlUwpX-5mEw",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     {
@@ -233,7 +273,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/neopixel-led",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     {
@@ -244,7 +286,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/i2c-on-board-sensor",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     {
@@ -255,7 +299,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     {
@@ -266,7 +312,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -277,7 +325,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/tft-basics",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -288,7 +338,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-feather/blink",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -299,7 +351,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-feather/i2c-external-sensor",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
 
     {
@@ -310,7 +364,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-feather/cpu-temperature",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -321,7 +377,9 @@
       "learnGuideLink": "https://learn.adafruit.com/pyleap-device-enabled-in-rainbows",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -332,7 +390,9 @@
       "learnGuideLink": "https://learn.adafruit.com/adafruit-magtag-kitchen-timer/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -343,7 +403,9 @@
       "learnGuideLink": "https://learn.adafruit.com/magtag-dishwasher-status",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -354,7 +416,9 @@
       "learnGuideLink": "https://learn.adafruit.com/magtag-cat-feeder-clock/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -365,7 +429,9 @@
       "learnGuideLink": "https://learn.adafruit.com/magtag-progress-displays/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -376,7 +442,9 @@
       "learnGuideLink": "https://learn.adafruit.com/magtag-slideshow/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
     
     {
@@ -387,18 +455,22 @@
       "learnGuideLink": "https://learn.adafruit.com/magtag-sports-schedule-viewer/overview",
       "compatibility": [
           "esp32-s2"
-      ]
+      ],
+      "bluetoothCompatible": false,
+      "wifiCompatible": true
     },
-	
-	{
-      "projectName": "LED Matrix Sports Scoreboard",
-      "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/124/458/small360/led_matrices_edited_P1410476.jpg?1695045733",
-      "description": "Display the game times and final scores of your favorite sports and teams!",
-      "bundleLink": "https://learn.adafruit.com/elements/3154673/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/led-matrix-sports-scoreboard/overview",
-      "compatibility": [
-          "matrix_portal_s3"
+    
+    {
+          "projectName": "LED Matrix Sports Scoreboard",
+          "projectImage": "https://cdn-learn.adafruit.com/assets/assets/000/124/458/small360/led_matrices_edited_P1410476.jpg?1695045733",
+          "description": "Display the game times and final scores of your favorite sports and teams!",
+          "bundleLink": "https://learn.adafruit.com/elements/3154673/download?type=zip",
+          "learnGuideLink": "https://learn.adafruit.com/led-matrix-sports-scoreboard/overview",
+          "compatibility": [
+              "matrix_portal_s3"
+          ],
+          "bluetoothCompatible": false,
+          "wifiCompatible": true
+        }
       ]
     }
-  ]
-}
