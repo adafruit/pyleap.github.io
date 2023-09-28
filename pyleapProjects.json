@@ -13,7 +13,7 @@
         "clue_nrf52840_express"
       ],
       "bluetoothCompatible": true,
-      "wifiCompatible": true
+      "wifiCompatible": false
     },
     
     {
@@ -27,7 +27,7 @@
         "clue_nrf52840_express"
       ],
       "bluetoothCompatible": true,
-      "wifiCompatible": true
+      "wifiCompatible": false
     },
     
     {
@@ -245,7 +245,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3146836/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-digital-clock-display-featuring-blanka-chan/overview",
       "compatibility": [
-          "esp32-s2"
+          "esp32-S2"
       ],
       "bluetoothCompatible": false,
       "wifiCompatible": true
@@ -259,7 +259,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3137194/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/esp32-s2-tft-boxing-glove-tracker-w-adafruit-io/code-the-boxing-glove-tracker?preview_token=FcD5M7Mdpe4IlUwpX-5mEw",
       "compatibility": [
-          "esp32-s2"
+          "esp32-S2"
       ],
       "bluetoothCompatible": false,
       "wifiCompatible": true
@@ -272,7 +272,8 @@
       "bundleLink": "https://learn.adafruit.com/elements/3092353/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-esp32-s2-tft-feather/neopixel-led",
       "compatibility": [
-          "esp32-s2"
+          "esp32-S2",
+          "MagTag"
       ],
       "bluetoothCompatible": false,
       "wifiCompatible": true
@@ -389,6 +390,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3080088/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/adafruit-magtag-kitchen-timer/overview",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
@@ -402,6 +404,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3081386/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/magtag-dishwasher-status",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
@@ -415,6 +418,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3079772/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/magtag-cat-feeder-clock/overview",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
@@ -428,6 +432,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3078319/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/magtag-progress-displays/overview",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
@@ -441,6 +446,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3077831/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/magtag-slideshow/overview",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
@@ -454,6 +460,7 @@
       "bundleLink": "https://learn.adafruit.com/elements/3084110/download?type=zip",
       "learnGuideLink": "https://learn.adafruit.com/magtag-sports-schedule-viewer/overview",
       "compatibility": [
+          "MagTag",
           "esp32-s2"
       ],
       "bluetoothCompatible": false,
